@@ -1,0 +1,7 @@
+C:\Users\elvin\OneDrive\Masaüstü\Yedek\Zula-Server-Detector-master\ServerDetector\bin\Debug\ServerDetector.exe.config
+C:\Users\elvin\OneDrive\Masaüstü\Yedek\Zula-Server-Detector-master\ServerDetector\bin\Debug\ServerDetector.exe
+C:\Users\elvin\OneDrive\Masaüstü\Yedek\Zula-Server-Detector-master\ServerDetector\bin\Debug\ServerDetector.pdb
+C:\Users\elvin\OneDrive\Masaüstü\Yedek\Zula-Server-Detector-master\ServerDetector\obj\Debug\ServerDetector.csprojAssemblyReference.cache
+C:\Users\elvin\OneDrive\Masaüstü\Yedek\Zula-Server-Detector-master\ServerDetector\obj\Debug\ServerDetector.csproj.CoreCompileInputs.cache
+C:\Users\elvin\OneDrive\Masaüstü\Yedek\Zula-Server-Detector-master\ServerDetector\obj\Debug\ServerDetector.exe
+C:\Users\elvin\OneDrive\Masaüstü\Yedek\Zula-Server-Detector-master\ServerDetector\obj\Debug\ServerDetector.pdb
